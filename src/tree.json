@@ -1,0 +1,37 @@
+{
+  "data": "maçã",
+  "left": {
+    "data": "morango",
+    "left": {
+      "data": "goiaba",
+      "left": "",
+      "right": ""
+    },
+    "right": {
+      "data": "limão",
+      "left": "",
+      "right": ""
+    }
+  },
+  "right": {
+    "data": "pêra",
+    "left": {
+      "data": "abacaxi",
+      "left": {
+        "data": "laranja",
+        "left": {
+          "data": "banana",
+          "left": "",
+          "right": ""
+        },
+        "right": {
+          "data": "cebola",
+          "left": "",
+          "right": ""
+        }
+      },
+      "right": ""
+    },
+    "right": ""
+  }
+}
