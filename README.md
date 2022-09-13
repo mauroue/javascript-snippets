@@ -1,2 +1,3 @@
 # javascript-snippets
-Created with CodeSandbox
+
+Pequenos blocos de codigo javascript.
